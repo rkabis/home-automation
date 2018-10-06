@@ -1,6 +1,8 @@
 # home-automation
 Files for home automation repo
 
+Detailed Document: https://docs.google.com/document/d/1C1Xov4nOmsuDlC8B_3uM4m_laLoR5VRpUrk_XDQRbcM/edit
+
 Roadmap:
 * Sensors to detect and view data.
 * Connect to Raspberry Pi using Hass.io
